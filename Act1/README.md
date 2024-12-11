@@ -140,6 +140,8 @@ This is broken into 3 Floors or FL# with a final boss arena. Majority of this is
 
 ### Final Boss: Mad Wolf of Ogham
 
+![Mad Wolf Arena Image](./ZoneImages/Mad-Wolf-Fight-Arena.png)
+
 This can be a rough first fight, be ready to whipe a few times. Just a few comments to note about this fight.
 - Adds only there for the first time entering the arena, any subsequent attempts they are gone.
 - You can push him to not have a wolf phase if you have enough deeps, but he might go through a few attack animations before he'll finally transition to corrupted wolf.
