@@ -1,10 +1,20 @@
 # Act 1 - Route
 
+## The Riverbank
+1. Let the Journey Begin! 
+2. Talk to the NPC for a quest, you'll get your first Main Hand (MH) here. 
+3. Begin running east to find a large chest with either your first Skill Gem 1 (SK1) or an Off Hand (OH). 
+4. Continue running east where you should encounter your first checkpoint & second large chest which contains a SK1. You might need to search around for the chest if you've missed, either before or after the Checkpoint.
+5. Start running Northeast to find the second checkpoint and the first boss fight. Relatively easy, just dodge roll the slam & charge.
+6. Once dead, Enter Clearfell Encampment where you'll talk to Renly for another SK1. You can vendor gear from boss fight, but also **CONSTANTLY CHECK boots for movement speed with each portal to town. Helps with clearing Act I faster.**
+
+![The Riverbank Route Image](./ZoneImages/The-Riverbank.png)
+
 ## Clearfall
 1. (Optional) Route for SK1 from Mysterious Chest 
 2. Grab Waypoint next to Mud Burrow, will teleport later for SU1
 3. Slay Ice Witch for 10% Cold Resistance -- easy kill
-4. Travel north to The Grelwood
+4. Travel north to The Grelwood, entrance will be along the northern wall, run up or down until you see light
 
 ![Clearfall Route Image](./ZoneImages/Clearfall.png)
 
@@ -31,7 +41,7 @@ Layout seems to remain similar, basically always one south/bottom right, with tw
 Optional for a second SU1, relatively fast give you're level & hopefully found a few good peices for power.
 
 1. Teleport to Clearfall -- waypoint is next to Mud Burrow
-2. Run directly south as much as you can until you make it to boss room
+2. Run directly opposite the waypoint as much as you can until you make it to boss room
 3. He should die quick, once dead portal to town & hand-in for SU1
 
 ![Mud Burrow Route Image](./ZoneImages/Mud-Burrow.png)
@@ -44,8 +54,9 @@ Now that you have the relics from The Red Vale you can stab the tree of souls to
 
 ## The Grim Tangle
 1. Talk with Una to unlock and begin searching for the Cemetary of the Eternals
-    - Seemingly looking out for the yellow glowing plants seems to be an indicator of the correct direction to go (TODO: still testing)
-    - Nothing else to do here but run for exit
+    - Seemingly looking out for the yellow glowing plants seems to be an indicator of the correct direction to go (TODO: still testing, west of waypoint for 2 runs)
+2. (Optional) Kill Boss for SU1, careful of him holding hand infront of him he's going to throw cluster explosions
+3. Head for the Entrance to "Cemetary of the Eternals"
 
 ![The Grim Tangle Route Image](./ZoneImages/The-Grim-Tangle.png)
 
@@ -97,8 +108,8 @@ Important Powerboost either for Defense or Offense to give yourself +30 Spirit, 
 ![Ogham Farmlands Route Image](./ZoneImages/Ogham-Farmlands.png)
 
 ## Ogham Village
-This is where we fight the Executioner 
-1.Unlock Ogham Village Waypoint
+This is where we fight the Executioner  
+1. Unlock Ogham Village Waypoint
 2. (Optional) Run to town for the +2 Weapon Set Skill Points if you need it for a Power Spike before boss -- otherwise wait to do before Final Boss Fight.
 3. Follow North Edge of Map while running West, I've really only ever seen his Arena to the Northwest of the Waypoint (TODO: further testing required)
 4. Fight the Executioner -- seems pretty easy for a boss, just avoid the guillotine (large white AoE animation with voiceline -- "The guillotine..drops!")
@@ -150,5 +161,5 @@ This can be a rough first fight, be ready to whipe a few times. Just a few comme
     - When he stabs the ground, white patches spawn on ground, there should be a few spots where there's a clear gap to stand. Find it!
     - When he disappears (not fog phase), wait for circle to spawn on your, RUN out first, THEN dodge at the last second prior to him landing.
     - **Fog Phase**: After his first dash through, there's a 5s window between each dash. But honestly, just running in a circle, dragging the adds with you and killing them as you go seems fine. To be extra safe, just every 5s dodge roll the direction you're running. You'll almost never get hit and you shouldn't get one shot by this either, but the stun can be annoying.
-- Otherwise, pretty ez rest of the fight. Once he's dead there's a LONG dialogue with The Hooded One -- (TODO: Test if porting back to town stops this) -- before he drops loot. 
+- Otherwise, pretty ez rest of the fight. Once he's dead there's a LONG dialogue with The Hooded One ***DO NOT*** port back to town before he drops loot otherwise it take even longer to drop. 
 - Afterwards a portal to "Clearfell Encampment" opens, take it and talk to The Hooded One to port to Act II.

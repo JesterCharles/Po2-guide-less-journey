@@ -19,3 +19,6 @@ With the launch of Path of Exile 2 I've decided to just go about this journey on
 - Made it through Huntings Grounds in Act I obtaining all the information I could. Will continue to compile routes to discern patterns with further run throughs.
 - Added remainder for Act I, including final boss fight details. Updated SP1 to be for spirit gems and SU1 for support gems. Added TODOs for the next Act I round.
 - Included the image for the Mad Wolf Arena
+
+12/13/24
+- Tested a few additional Act I theories, will need to do more to confirm any pattern with spawns. Did manage to add a few missed details and knock out some of the todo items.
